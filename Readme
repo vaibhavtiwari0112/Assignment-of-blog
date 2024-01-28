@@ -1,5 +1,5 @@
 For checkinng the functioninng of the code. follow these steps : 
-1. Clone this git repository in your sytem
-2. Run this command : "npm run dev" , in your terminal at the loaction of clonned repository.
+1. Clone this git repository in your system
+2. Run this command : "npm run dev" , in your terminal opened at the loaction of clonned repository.
 
 A browser tab will open and you can use the app in your localhost.
